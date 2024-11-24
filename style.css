@@ -1,0 +1,27 @@
+body {
+  font-family: 'Arial', sans-serif;
+  text-align: center;
+  background-color: #fce4ec;
+  color: #d81b60;
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  margin-top: 50px;
+}
+
+h1 {
+  font-size: 3em;
+}
+
+.video-container {
+  margin: 20px auto;
+  width: 80%;
+}
+
+video {
+  width: 100%;
+  border: 3px solid #d81b60;
+  border-radius: 10px;
+}
